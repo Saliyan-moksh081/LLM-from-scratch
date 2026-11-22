@@ -1,0 +1,5 @@
+torch>=2.3
+tiktoken>=0.7
+h5py
+numpy
+pytest>=8

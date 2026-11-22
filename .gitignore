@@ -1,0 +1,11 @@
+# Python environments and caches
+.venv/
+llmenv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Downloaded datasets and trained model files
+data/
+models/
+*.pt
